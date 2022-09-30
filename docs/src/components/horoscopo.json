@@ -1,0 +1,110 @@
+[
+    {
+        "signo": "escorpion",
+        "img": "https://cdn-icons-png.flaticon.com/512/47/47250.png",
+        "oroscopo": " Escorpio No se están metiendo en tu vida, sólo te dicen lo que tú no puedes ver a diario porque estás demasiado implicada en ciertos temas. Te están orientando bien y ganarás mucho si les haces caso.",
+        "fechaInicioDia": "23",
+        "fechaInicioMes": "10",
+        "fechaFinDia": "22",
+        "fechaFinMes": "11"
+    },
+    {
+        "signo": "cancer",
+        "img": "https://cdn-icons-png.flaticon.com/512/47/47279.png",
+        "oroscopo": "Los Cáncer son los más sensibles del zodiaco. Son conocidos por ‘montar el drama’ bajo cualquier circunstancia, pero lo que quizá no sepas es que estas enormes emociones que experimentan les hace ser los más empáticos del horóscopo.",
+        "fechaInicioDia": "23",
+        "fechaInicioMes": "06",
+        "fechaFinDia": "22",
+        "fechaFinMes": "07"
+    },
+    {
+        "signo": "libra",
+        "img": "https://cdn-icons-png.flaticon.com/512/47/47298.png",
+        "oroscopo": "Los Libra son los más románticos del horóscopo, aunque también los más dudosos. Mala combinación si tenemos en cuenta que sopesan cada decisión que toman una media de mil veces.",
+        "fechaInicioDia": "23",
+        "fechaInicioMes": "09",
+        "fechaFinDia": "22",
+        "fechaFinMes": "10"
+    },
+    {
+        "signo": "Aries",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Aries.png",
+        "oroscopo": "Son líderes naturales y tienen un gran poder de iniciativa, además de ser rápidos e instintivos en la toma de decisiones. Se anticipan a los acontecimientos, son rápidos e instintivos, no se dejan manejar y algunas veces ni aconsejar.",
+        "fechaInicioDia": "21",
+        "fechaInicioMes": "03",
+        "fechaFinDia": "19",
+        "fechaFinMes": "04"
+    },
+    {
+        "signo": "Tauro",
+        "img": "https://cdn-icons-png.flaticon.com/512/47/47414.png",
+        "oroscopo": "Es un signo de luchadores, tienen mucha fuerza de voluntad y suelen alcanzar lo que se proponen. Son absolutamente leales y pueden ser muy románticos si la ocasión es propicia. ",
+        "fechaInicioDia": "20",
+        "fechaInicioMes": "04",
+        "fechaFinDia": "20",
+        "fechaFinMes": "05"
+    },
+    {
+        "signo": "Geminis",
+        "img": "https://cdn-icons-png.flaticon.com/512/47/47414.png",
+        "oroscopo": "Su personalidad está marcada por constantes cambios, según ese día tenga más influencia de uno u otro gemelo. Son brillantes comunicadores y poseen una notable inteligencia.",
+        "fechaInicioDia": "21",
+        "fechaInicioMes": "05",
+        "fechaFinDia": "20",
+        "fechaFinMes": "06"
+    },
+    {
+        "signo": "Leo",
+        "img": "https://cdn-icons-png.flaticon.com/512/47/47337.png",
+        "oroscopo": "Los nativos de este signo brillan en cualquier parte con la luz del Sol que impregna su signo. Ello lo saben y le sacan partido. Les gusta llevar siempre la voz cantante y saben dar lo mejor de sí mismos, si la soberbia no les supera.",
+        "fechaInicioDia": "23",
+        "fechaInicioMes": "07",
+        "fechaFinDia": "22",
+        "fechaFinMes": "08"
+    },
+    {
+        "signo": "Capricornio",
+        "img": "https://www.pngmart.com/files/5/Capricorn-PNG-Picture.png",
+        "oroscopo": "Planificadores en grado sumo, no soportan que nada altere el orden y la estabilidad que persiguen. Cuando algo se tuerce, se esfuerzan en hallar solución. El trabajo es esencial en su vida, incluso por delante de otros temas importantes.",
+        "fechaInicioDia": "22",
+        "fechaInicioMes": "12",
+        "fechaFinDia": "19",
+        "fechaFinMes": "01"
+    },
+    {
+        "signo": "Sagitario",
+        "img": "https://cdn-icons-png.flaticon.com/512/1137/1137400.png?w=360",
+        "oroscopo":"Tienen a la suerte de su parte, pero cuando algo les falla montan en cólera. Suelen concentrar toda su energía en salvar cualquier obstáculo. Son muy sociables y caen bien a cualquiera que se les acerque.",
+        "fechaInicioDia": "22",
+        "fechaInicioMes": "11",
+        "fechaFinDia": "21",
+        "fechaFinMes": "12"
+    },
+    {
+        "signo": "Acuario",
+        "img": "https://cdn-icons-png.flaticon.com/512/47/47246.png",
+        "oroscopo":"Amantes de la libertad, son algo rebeldes por naturaleza. Aman defender las causas en las que creen y lo hacen de modo altruista. Sus intereses son muy diversos, hay muchas cosas por las que creen necesario luchar.",
+        "fechaInicioDia": "20",
+        "fechaInicioMes": "01",
+        "fechaFinDia": "18",
+        "fechaFinMes": "02"
+    },
+    {
+        "signo": "Picis",
+        "img": "https://www.pngmart.com/files/5/Pisces-PNG-Picture.png",
+        "oroscopo":"Originales y creativos, son también muy románticos y con una fantasía desbordada. Les salva su intuición, que muchas veces les evita meterse innecesariamente en líos. Su honestidad y su carácter tranquilo les vale tener muchos adeptos.",
+        "fechaInicioDia": "19",
+        "fechaInicioMes": "02",
+        "fechaFinDia": "20",
+        "fechaFinMes": "03"
+    },
+    {
+        "signo": "Virgo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Virgo.svg/2048px-Virgo.svg.png",
+        "oroscopo":"Tienen las ideas súper claras y saben hacer comulgar a los demás con ellas. Poseen una personalidad fuerte aunque quizá no la demuestran. Son perfeccionistas hasta el límite y sólo deberían dejarse llevar un poco más por la vida.",
+        "fechaInicioDia": "23",
+        "fechaInicioMes": "08",
+        "fechaFinDia": "22",
+        "fechaFinMes": "09"
+    }
+]
